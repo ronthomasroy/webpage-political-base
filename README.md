@@ -1,7 +1,7 @@
 # political_bias_nlp
 
 A clean, modular Python package for detecting political bias in news articles
-using NLP, sentiment analysis, and emotion detection.
+using Natural Language Processing, sentiment analysis, and emotion detection.
 
 ---
 
